@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# ecard-for-hko-2023
 
+An e-card for HKO e-card competition 2023.\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
